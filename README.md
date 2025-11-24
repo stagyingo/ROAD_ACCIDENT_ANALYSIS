@@ -94,7 +94,7 @@ The dashboard has four dynamic interative icon or buttoms. which includes;
 
 Data Sheet         |     KPI Sheet
 :----------------------:|:-------------------------:
-![](Dashboard.png)        | ![](KPI.jpg)
+![](Dashboard.png)        | ![](KPI.png)
 
 
 
