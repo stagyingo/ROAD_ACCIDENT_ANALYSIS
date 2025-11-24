@@ -14,16 +14,16 @@ time-based trends. The final output includes an interactive dashboard allowing u
 
 ## Objectives 🎯
 The primary objectives of this analysis are:
-**Identify KPI Trends:** Analyze total casualties, total accidents, and fatality rates over time.
-**Severity Analysis:** Determine the distribution of accidents by severity (Fatal, Serious, Slight).
-**Environmental Impact:** Assess how weather (Rain, Snow, Fog) and road surface conditions affect accident frequency.
-**Vehicle & Demographics:** Analyze the involvement of different vehicle types and casualty demographics.
-**Vehicle Type Distribution:** Analyzes the types of vehicles involved in accidents.
-**Road Surface and Type:** Understands how different road conditions (dry, wet, snow/ice) impact accidents.
-**Urban vs. Rural:** Distinguishes accident trends based on whether the accident occurred in an urban or rural area.
-**Monthly Trends:** Displays accident data by month to help identify seasonal patterns and spikes in accident numbers.
-**Light Conditions:** Examines the impact of daylight and darkness on accident rates.
-Build intuitive dashboards and visualizations to communicate insights.
+- **Identify KPI Trends:** Analyze total casualties, total accidents, and fatality rates over time.
+- **Severity Analysis:** Determine the distribution of accidents by severity (Fatal, Serious, Slight).
+- **Environmental Impact:** Assess how weather (Rain, Snow, Fog) and road surface conditions affect accident frequency.
+- **Vehicle & Demographics:** Analyze the involvement of different vehicle types and casualty demographics.
+- **Vehicle Type Distribution:** Analyzes the types of vehicles involved in accidents.
+- **Road Surface and Type:** Understands how different road conditions (dry, wet, snow/ice) impact accidents.
+- **Urban vs. Rural:** Distinguishes accident trends based on whether the accident occurred in an urban or rural area.
+- **Monthly Trends:** Displays accident data by month to help identify seasonal patterns and spikes in accident numbers.
+- **Light Conditions:** Examines the impact of daylight and darkness on accident rates.
+- Build intuitive dashboards and visualizations to communicate insights.
 
 
 💾📂 Dataset Description
